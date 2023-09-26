@@ -1,5 +1,5 @@
-<p align="center">Cheats made by me</p>
-<h3 align="center"><a href="https://discord.gg/jHjGrrdXP6">Support Server</a></h2>
+<p align="center">Cheats made by philiptech08</p>
+<h3 align="center"><a href="https://discord.gg/rfqKdtS7wX">Support Server</a></h2>
 <h3 align="center"><a href="tutorial/readme.md">Instructions for importing bookmarklets</a></h2>
 
 ## Information
